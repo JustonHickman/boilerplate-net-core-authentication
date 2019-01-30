@@ -1,0 +1,14 @@
+/Users/jacobwilliam/Desktop/net-api/boilerplate.API/obj/Debug/netcoreapp2.2/boilerplate.API.csprojAssemblyReference.cache
+/Users/jacobwilliam/Desktop/net-api/boilerplate.API/obj/Debug/netcoreapp2.2/boilerplate.API.csproj.CoreCompileInputs.cache
+/Users/jacobwilliam/Desktop/net-api/boilerplate.API/obj/Debug/netcoreapp2.2/boilerplate.API.RazorAssemblyInfo.cache
+/Users/jacobwilliam/Desktop/net-api/boilerplate.API/obj/Debug/netcoreapp2.2/boilerplate.API.RazorAssemblyInfo.cs
+/Users/jacobwilliam/Desktop/net-api/boilerplate.API/obj/Debug/netcoreapp2.2/boilerplate.API.AssemblyInfoInputs.cache
+/Users/jacobwilliam/Desktop/net-api/boilerplate.API/obj/Debug/netcoreapp2.2/boilerplate.API.AssemblyInfo.cs
+/Users/jacobwilliam/Desktop/net-api/boilerplate.API/bin/Debug/netcoreapp2.2/boilerplate.API.deps.json
+/Users/jacobwilliam/Desktop/net-api/boilerplate.API/bin/Debug/netcoreapp2.2/boilerplate.API.runtimeconfig.json
+/Users/jacobwilliam/Desktop/net-api/boilerplate.API/bin/Debug/netcoreapp2.2/boilerplate.API.runtimeconfig.dev.json
+/Users/jacobwilliam/Desktop/net-api/boilerplate.API/bin/Debug/netcoreapp2.2/boilerplate.API.dll
+/Users/jacobwilliam/Desktop/net-api/boilerplate.API/bin/Debug/netcoreapp2.2/boilerplate.API.pdb
+/Users/jacobwilliam/Desktop/net-api/boilerplate.API/obj/Debug/netcoreapp2.2/boilerplate.API.RazorTargetAssemblyInfo.cache
+/Users/jacobwilliam/Desktop/net-api/boilerplate.API/obj/Debug/netcoreapp2.2/boilerplate.API.dll
+/Users/jacobwilliam/Desktop/net-api/boilerplate.API/obj/Debug/netcoreapp2.2/boilerplate.API.pdb

@@ -16,7 +16,7 @@ namespace boilerplate.API.DataObjectTransfer
 
         [Required(ErrorMessage = "This field is required")]
         [EmailAddress(ErrorMessage = "This is not a valid email address")]
-        public int Email { get; set; }
+        public string Email { get; set; }
 
         [Required(ErrorMessage = "This field is required")]
         public string FirstName { get; set; }

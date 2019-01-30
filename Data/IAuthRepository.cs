@@ -8,5 +8,6 @@ namespace boilerplate.API.Data
         Task<User> RegisterAsync(User user, string password);   
         Task<User> Login(string username, string password);  
         Task<bool> IsUser(string username); 
+        Task<bool> IsEmail(string email);
     }
 }

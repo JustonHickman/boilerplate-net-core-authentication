@@ -29,7 +29,7 @@
 
 ## FAQ
 
-- **Having problem setting up?**
+- **Having problem settin it     up?**
     - No problem! contact me on `amjedcha@gmail.com` or open an issue.
 
 ---

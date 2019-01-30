@@ -200,7 +200,7 @@ project.lock.json
 .vscode/
 
 # Testing databases
-.db
+*.db
 Migrations/
 
 # Output folder used by Webpack or other FE stuff

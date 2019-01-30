@@ -199,6 +199,9 @@ project.lock.json
 # Visual Studio Code
 .vscode/
 
+# Testing databases
+*.db
+
 # Output folder used by Webpack or other FE stuff
 **/node_modules/*
 **/wwwroot/*

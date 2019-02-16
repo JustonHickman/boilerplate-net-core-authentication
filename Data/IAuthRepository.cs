@@ -9,5 +9,6 @@ namespace boilerplate.API.Data
         Task<User> Login(string username, string password);  
         Task<bool> IsUser(string username); 
         Task<bool> IsEmail(string email);
+        Task<User> EditUserByIdAsync(int id, User modifiedUserFields);
     }
 }

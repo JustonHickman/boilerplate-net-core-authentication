@@ -89,7 +89,9 @@ namespace boilerplate.API.Controllers {
 
         // PUT api/users/5
         [HttpPut ("{id}")]
-        public void Put (int id, [FromBody] string value) { }
+        public void Put (int id, [FromBody] User user) { 
+           
+        }
 
         // DELETE api/users/5
         [HttpDelete ("{id}")]

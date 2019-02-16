@@ -80,5 +80,30 @@ namespace boilerplate.API.Data {
                 passwordHash = hashMac.ComputeHash(System.Text.Encoding.UTF8.GetBytes(password));
             }
         }
+
+        public async Task<User> EditUserByIdAsync(int id, User modifiedUserFields)
+        {
+            var user = await _context.Users.FirstOrDefaultAsync(usr => usr.Id == id);
+            
+            if (user != null) {
+                if (modifiedUserFields.LastName != null) {
+                    user.LastName = modifiedUserFields.LastName;
+                }
+                if (modifiedUserFields.FirstName != null) {
+                    user.FirstName = modifiedUserFields.FirstName;
+                }
+                if (modifiedUserFields.Email != null) {
+                    user.Email = modifiedUserFields.Email;
+                }
+                if (modifiedUserFields.Username != null) {
+                    user.Username = modifiedUserFields.Username;
+                }
+                await _context.SaveChangesAsync();
+                return user;
+            }
+            else {
+                return null;
+            }
+        }
     }
 }
